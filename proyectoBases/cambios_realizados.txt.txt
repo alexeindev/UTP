@@ -1,3 +1,0 @@
--Ya se descuenta del stock una vez el producto es pedido
--Se pueden registrar usuarios
--La sesión del carrito de compra se cierra
